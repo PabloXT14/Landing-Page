@@ -13,5 +13,5 @@ Site Landing Page demonstrativo ([site de referência](https://jolly-kalam-23776
 
 ## ⚙ Settings
 * Para executar o projeto basta rodar o arquivo index em algum browser
-* Ou acessar: https://pabloxt14.github.io/sign-up-form/
+* Ou acessar: https://pabloxt14.github.io/Landing-Page/
 * Obs: a página está responsiva, então pode executá-la até mesmo no celular
