@@ -1,5 +1,5 @@
 # Landing Page Project
-Site Landing Page demonstrativo ([site de referência](https://jolly-kalam-23776e.netlify.app/cssgridresponsive/)) feito apenas com HTML e CSS, com o objetivo de treinar habilidades em CSS Grid.
+Site Landing Page demonstrativo ([site de referência](https://jolly-kalam-23776e.netlify.app/cssgridresponsive/)) feito apenas com HTML e CSS, com o objetivo de treinar e aprimorar habilidades em CSS Grid.
 
 ## 📷 Demonstration
 <img src="./images/Demonstration_LandingPage.gif" alt="Image de Demostração"> 
